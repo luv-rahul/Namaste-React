@@ -1,1 +1,1 @@
-# This is the Namaste React Course taught by Akshay Saini from Namastedev.com
+# This is the Namaste React Course taught by Akshay Saini from namastedev.com
